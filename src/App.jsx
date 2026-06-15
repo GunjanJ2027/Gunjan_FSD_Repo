@@ -31,8 +31,8 @@ const ResetClick=()=>{
     <div>App</div>
     <h1>{count}</h1>
     <button onClick={handleClick}>Click</button>
-    <button onClick={ReduceClick}>Click</button>
-    <button onClick={ResetClick}>Click</button>
+    <button onClick={ReduceClick}>DecreaseClick</button>
+    <button onClick={ResetClick}>ResetClick</button>
     <Home/>
     <FormHandling/>
     <MultiForm/>
