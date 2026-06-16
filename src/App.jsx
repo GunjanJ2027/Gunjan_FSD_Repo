@@ -34,6 +34,11 @@ const ResetClick=()=>{
     <button onClick={ReduceClick}>DecreaseClick</button>
     <button onClick={ResetClick}>ResetClick</button>
     <Home/>
+    <Counter/>
+    <Toggle/>
+    <InputExample/>
+    <ColorChanger/>
+    <LikeButton/>
     <FormHandling/>
     <MultiForm/>
     </>
